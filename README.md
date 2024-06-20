@@ -34,8 +34,8 @@ _Copy .env.example to a .env file_
 ```
 
 ## Optimisation
-**Search**
+**Search :**
 Afin d'optimiser le search il faudrait utiliser des indexes textuels qui permettent de réaliser des recherches textuelles efficaces
 
-**Améliorer les performances**
+**Améliorer les performances :**
 Mettre en place une pagination pour charger les données petit à petit
